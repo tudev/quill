@@ -1,3 +1,14 @@
 // Branding overrides
 //
 // Copy variables from `_branding.scss` to this file to override default values.
+
+$primary: #9e1b34;
+$secondary: #8c2132;
+$tertiary: #007bc2;
+
+/** ASSET URLS
+ * login-bg: image for login splash page 
+ */
+
+$login-bg: url('http://tudev.org/img/home-bg.jpg');
+
